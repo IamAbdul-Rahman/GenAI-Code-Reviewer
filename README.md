@@ -22,4 +22,4 @@ To resolve this:
 - Avoid submitting too many queries in a short time.  
 
 ## 🚀 Live Demo  
-🔗 [Click Here to Try the App at streamlit community cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/get-started) 
+🔗 [Click Here to Try the App at streamlit community cloud]([https://docs.streamlit.io/deploy/streamlit-community-cloud/get-started](https://genai-code-reviewer.streamlit.app/)) 
