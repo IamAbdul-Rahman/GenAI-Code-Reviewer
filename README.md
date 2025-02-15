@@ -1,4 +1,4 @@
-# GenAI Python Code Reviewer 
+# GenAI Python Code Reviewer ✨
 
 ## Overview
 This project is an AI-based code reviewer that detects **bugs, inefficiencies, and improvements** in Python code using **Google Gemini AI**.
