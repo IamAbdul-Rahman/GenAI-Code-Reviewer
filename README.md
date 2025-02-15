@@ -4,7 +4,7 @@
 This project is an Geneartive AI-based code reviewer that detects **bugs, inefficiencies, and improvements** in Python code using **Google Gemini AI**.
 
 ##  Tech Stack
-- Python
+- Python 🐍
 - Streamlit
 - Google Gemini AI API
 
